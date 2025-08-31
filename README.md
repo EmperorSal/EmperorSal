@@ -7,7 +7,7 @@
 
 ### [📧 Email](mailto:salahalayoubi23@gmail.com) ∙ [💼 LinkedIn](https://www.linkedin.com/in/salah-alayoubi/)
 
-*‧ A passionate Software Engineer ‧*
+ _A passionate Software Engineer_ 
 
 </div>
 

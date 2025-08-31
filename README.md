@@ -16,6 +16,5 @@
 ## 🚀 Languages and Tools:
 
 <div align="center">
-#
-
-[![My Skills](https://skillicons.dev/icons?i=android,angular,bootstrap,c,cpp,cs,css,dart,firebase,flutter,git,haskell,html,ionic,java,js,mongodb,mysql,nodejs,php,python,react,ts)]
+ ![My Skills](https://skillicons.dev/icons?i=android,angular,bootstrap,c,cpp,cs,css,dart,firebase,flutter,git,haskell,html,ionic,java,js,mongodb,mysql,nodejs,php,python,react,ts)
+</div>
